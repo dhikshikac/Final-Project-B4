@@ -2,7 +2,7 @@
 //  OrganizationCategory.swift
 //  Final Project B4
 //
-//  Created by scholar on 7/30/24.
+//  Created by Niky Patel on 8/1/24.
 //
 
 import SwiftUI
